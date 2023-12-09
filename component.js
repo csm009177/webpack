@@ -34,3 +34,4 @@ export function render(virtualDom) {
   }
   return element;
 }
+
